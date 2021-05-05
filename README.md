@@ -1,6 +1,6 @@
 # StartUp.io
 
-A mock-up home page for a made up company called StartUp.io
+A mock-up home page for a made up company called StartUp.io. All images were acquired from [pexels.com](https://www.pexels.com/).
 
 ## Introduction
 
